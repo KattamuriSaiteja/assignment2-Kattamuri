@@ -40,8 +40,31 @@ Italy is one of the best places in world for its well known beverages, below are
 
 ## Quotes
 
->* Our greatest glory is not in never falling, but in rising every time we fall. - *Confucius*
+>* Our greatest glory is not in never falling, but in rising every time we fall - *Confucius*
  <!--  -->
->* Magic is believing in yourself, if you can do that, you can make anything happen. - *Johann Wolfgang*
+>* Magic is believing in yourself, if you can do that, you can make anything happen - *Johann Wolfgang*
+
+***
+
+## Code fencing
+
+> Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. <https://en.wikipedia.org/wiki/Depth-first_search>
+
+```java
+vector<vector<int>> adj; // graph represented as an adjacency list
+int n; // number of vertices
+
+vector<bool> visited;
+
+void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj[v]) {
+        if (!visited[u])
+            dfs(u);
+    }
+}
+```
+
+> code source <https://cp-algorithms.com/graph/depth-first-search.html>
 
 [More about me](AboutMe.md)
