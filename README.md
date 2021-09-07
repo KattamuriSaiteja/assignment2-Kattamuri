@@ -15,3 +15,10 @@ as the **'City of Canals'** there are many things Venice is famous for including
 1. Take an exit 11 on to Chicago IS-71.
 1. Take flight from Chicago international airpot to Italy.
 1. Within 3 hours of duration you will reach to your destination.
+
+1. List of items to be carried for maximum enjoyment.
+   * Camera
+   * Selfie stick
+   * Sun glasses
+   * Hat
+   * Bluetooth speakers
