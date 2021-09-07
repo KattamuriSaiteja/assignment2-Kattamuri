@@ -36,4 +36,12 @@ Italy is one of the best places in world for its well known beverages, below are
 |  San Bitter Rosso|    Rome   |       60    |
 |  Bianco          |  Florence |       15    |
 
+***
+
+## Quotes
+
+>* Our greatest glory is not in never falling, but in rising every time we fall. - *Confucius*
+ <!--  -->
+>* Magic is believing in yourself, if you can do that, you can make anything happen. - *Johann Wolfgang*
+
 [More about me](AboutMe.md)
