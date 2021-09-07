@@ -24,4 +24,16 @@ as the **'City of Canals'** there are many things Venice is famous for including
    * Hat
    * Bluetooth speakers
 
+***
+
+## Beverages
+
+Italy is one of the best places in world for its well known beverages, below are the list of some drinks along with its location and price in Italy.
+
+|       Drink      | Location  | Price (USD) |
+|     ---          |      ---  |     ---     |
+|  Gingerino       |   Venice  |       25    |
+|  San Bitter Rosso|    Rome   |       60    |
+|  Bianco          |  Florence |       15    |
+
 [More about me](AboutMe.md)
