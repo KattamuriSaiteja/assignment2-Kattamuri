@@ -35,6 +35,7 @@ Italy is one of the best places in world for its well known beverages, below are
 |  Gingerino       |   Venice  |       25    |
 |  San Bitter Rosso|    Rome   |       60    |
 |  Bianco          |  Florence |       15    |
+|  Bureto          |  Venice   |       26    |
 
 ***
 
